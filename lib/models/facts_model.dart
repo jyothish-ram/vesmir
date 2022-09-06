@@ -5,10 +5,10 @@ class Hotel {
   int price;
 
   Hotel({
-    this.imageUrl,
-    this.name,
-    this.address,
-    this.price,
+    required this.imageUrl,
+    required this.name,
+    required this.address,
+    required this.price,
   });
 }
 

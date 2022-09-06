@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-import 'package:vesmir/models/hotel_model.dart';
+import 'package:vesmir/models/facts_model.dart';
 
 class HotelCarousel extends StatelessWidget {
   @override
@@ -16,7 +16,7 @@ class HotelCarousel extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Text(
-                'Exclusive Hotels',
+                'Facts',
                 style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,

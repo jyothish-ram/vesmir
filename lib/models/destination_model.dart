@@ -1,18 +1,18 @@
 import 'package:vesmir/models/activity_model.dart';
 
 class Destination {
-  String imageUrl ;
+  String imageUrl;
   String city;
   String country;
   String description;
   List<Activity> activities;
 
   Destination({
-    this.imageUrl,
-    this.country,
-    this.description,
-    this.activities, 
-    required String city,
+    required this.imageUrl,
+    required this.country,
+    required this.description,
+    required this.activities,
+    required this.city,
   });
 }
 
