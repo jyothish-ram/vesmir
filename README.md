@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Project Summary: https://docs.google.com/document/d/1KomFAzAo5ltOc5pAzJn0u9eCw-x0oWsp73Gw5d0At-E/edit?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
