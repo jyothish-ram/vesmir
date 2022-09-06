@@ -63,13 +63,11 @@ Social Media Marketing Plan:
        Timely release of posters mentioning tour packages available.   
        Countdown before launch
   
-     Instagram Credential:
-                     Username:  vesmir_tours
-                     Password:   team7gdsc
 
 
 
 LOGO:
+
   
 
 
